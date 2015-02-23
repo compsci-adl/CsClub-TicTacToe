@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ttt_background">#FF303030</color>
+    <color name="ttt_primary_text">#FFFFFFFF</color>
+    <color name="ttt_secondary_text">#D0FFFFFF</color>
+    <color name="ttt_button_pressed">#40FFFFFF</color>
+    <color name="ttt_button">#30FFFFFF</color>
+</resources>

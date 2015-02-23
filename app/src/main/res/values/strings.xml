@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="title_activity_game_screen">GameScreen</string>
+
+    <string name="title_club">CS Club</string>
+    <string name="title_title">Tic Tac Toe</string>
+    <string name="title_choose">Choose your token:</string>
+
+    <string name="game_player_turn">Choose a space</string>
+    <string name="game_win_replay_button">Again!</string>
+    <string name="game_win_quit_button">No!</string>
+    <string name="game_win_replay_message">Do you want to play again?</string>
+
+    <string name="game_human_win">You\'ve won!</string>
+    <string name="game_computer_win">You\'ve lost!</string>
+    <string name="game_tie">Nobody wins!</string>
+</resources>
